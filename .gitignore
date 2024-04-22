@@ -1,1 +1,5 @@
 /data/
+/.idea/
+/.ipynb_checkpoints/
+/results/
+.DS_Store
